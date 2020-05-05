@@ -23,7 +23,20 @@ div .keys {
   width: 500px;
   height: 200px;
   margin: auto;
-  position: fixed;
+  float:left;
   top: 50%;
   
+}
+
+.howto {
+	width:400px;
+}
+.ht{
+	float:right;
+}
+.wrapper{
+	overflow: hidden;
+	width: 80%;
+	height: 100%;
+	display: inline-block;
 }
